@@ -29,12 +29,6 @@ A Python-based security tool that analyzes URLs for phishing indicators and mali
 - URL shortening services
 - Typosquatting and domain misspellings
 
-### Risk Levels
-
-- 🔴 **HIGH RISK** (Score ≥ 10) - Likely phishing, do not visit
-- 🟡 **MEDIUM RISK** (Score 5-9) - Suspicious, proceed with caution
-- 🟢 **LOW RISK** (Score < 5) - Appears relatively safe
-
 ## Requirements
 
 - Python 3.6 or higher
@@ -234,16 +228,6 @@ Always use your judgment and verify through official channels.
 - [ ] Integration with Google Safe Browsing API
 - [ ] PDF report generation
 
-## Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/awesome-feature`)
-3. Commit your changes (`git commit -m 'Add awesome feature'`)
-4. Push to the branch (`git push origin feature/awesome-feature`)
-5. Open a Pull Request
-
 ### Areas for Improvement
 
 - Additional phishing patterns
@@ -291,7 +275,7 @@ The authors are not liable for any misuse or damages resulting from the use of t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License .
 
 ## Support
 
@@ -315,14 +299,8 @@ Kiriosx1
 - GitHub: [@Kiriosx1](https://github.com/Kiriosx1)
 - Email: kyros.businesss@gmail.com
 
-## Acknowledgments
-
-- Thanks to the cybersecurity community
-- Inspired by various phishing detection research
-- Built with standard Python libraries
-
 ---
 
 ⭐ If this tool helps you stay safe online, please star the repository!
 
-🔒 Stay safe, stay vigilant!
+Stay safe !
